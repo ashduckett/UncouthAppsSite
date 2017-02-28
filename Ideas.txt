@@ -1,0 +1,59 @@
+Start with a logo.
+Choose name for definite.
+
+Imagine how it should look beneath the header.
+
+How should the footer look? I'd be happy with pure black with white social media icons.
+
+Logo in top left?
+
+
+Whether you're an individial with a great idea, or a business with business needs, Uncouth Apps can help you acheive your goals.
+
+
+
+What do you want your site to say?
+	* Adaptive to client needs
+	* Efficent
+	* Up to date
+	* Fun
+
+Image ideas.
+
+A drawing of you with your feet up with a laptop in front of you.
+
+A drawing of an iDevice.
+
+From concept to reality with a drawing of an iPhone running an app, and the actual iPhone running that app.
+
+Headers:
+	* From concept to reality. See above. What kind of app? A game? Fun.
+	*
+
+Photos
+
+* An iPhone on top of a briefcase? Outside?
+
+Some kind of Ash, animated
+
+Hi, my name's Ash and I'm an iOS and web developer. I know, I know, everybody's doing it these days. I'm here to explain to you why I'm different.
+
+Human (skull)
+Organic (tree)
+No Bull
+
+Do you want fancy effects?
+
+	* Parallax
+	* Canvas animation	// Can add later
+	* Fading in and out
+
+
+Pages
+
+Home
+Contact
+Portfolio
+
+Maybe a graph showing:
+	* Something
